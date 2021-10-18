@@ -1,5 +1,5 @@
 PKG_NAME := importlib_resources
-URL = https://files.pythonhosted.org/packages/b1/7a/b9e2309e5c619ba3da8806e43bb17873ec6eab22a3d79347778c80563028/importlib_resources-5.2.2.tar.gz
+URL = https://files.pythonhosted.org/packages/e6/eb/9a21e2ae696a0530c73304f9d1d3c063065f82d3562822b55466c6ef62ef/importlib_resources-5.2.3.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
