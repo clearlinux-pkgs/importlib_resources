@@ -4,7 +4,7 @@
 #
 Name     : importlib_resources
 Version  : 5.3.0
-Release  : 4
+Release  : 5
 URL      : https://files.pythonhosted.org/packages/35/d2/d0bdb7d46318a8ee2a63ef130a384fd675bc833f7641e7371cbd9648af74/importlib_resources-5.3.0.tar.gz
 Source0  : https://files.pythonhosted.org/packages/35/d2/d0bdb7d46318a8ee2a63ef130a384fd675bc833f7641e7371cbd9648af74/importlib_resources-5.3.0.tar.gz
 Summary  : Read resources from Python packages
